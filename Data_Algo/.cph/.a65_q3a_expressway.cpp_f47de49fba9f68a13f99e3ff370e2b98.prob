@@ -1,0 +1,1 @@
+{"name":"Local: a65_q3a_expressway","url":"e:\\Data_Algo\\a65_q3a_expressway.cpp","tests":[{"id":1732529657078,"input":"5 10\n2 1 6 2 7\n3 1 1 3 1 2 9\n2 1 2 2 5","output":"10 9 7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Data_Algo\\a65_q3a_expressway.cpp","group":"local","local":true}

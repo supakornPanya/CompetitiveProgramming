@@ -1,0 +1,1 @@
+{"name":"Local: 02_if_22","url":"e:\\CEDT_comp\\02_if_22.cpp","tests":[{"id":1724724651002,"input":"1\n1\n2559","output":"1"},{"id":1724724659488,"input":"31\n12\n2559","output":"366"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\CEDT_comp\\02_if_22.cpp","group":"local","local":true}

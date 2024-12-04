@@ -1,0 +1,1 @@
+{"name":"Local: MockAlogo4","url":"e:\\Data_Algo\\MockAlogo4.cpp","tests":[{"id":1732702956831,"input":"4","output":"11"},{"id":1732702962959,"input":"5","output":"21"},{"id":1732702984423,"input":"7","output":"85"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Data_Algo\\MockAlogo4.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: main","url":"e:\\Data_Algo\\package_queue_total_reverse\\main.cpp","tests":[{"id":1730259022095,"input":"5\n10 20 30 40 50\n5\n10 20 30 40 50","output":"50 40 30 20 10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Data_Algo\\package_queue_total_reverse\\main.cpp","group":"local","local":true}

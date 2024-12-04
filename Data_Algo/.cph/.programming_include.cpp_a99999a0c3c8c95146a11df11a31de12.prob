@@ -1,0 +1,1 @@
+{"name":"Local: programming_include","url":"e:\\Data_Algo\\programming_include.cpp","tests":[{"id":1732632338389,"input":"2\n1 2\n0","output":"NO\nNO"},{"id":1732632353557,"input":"3\n1 2\n1 3\n1 1","output":"YES\nYES\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Data_Algo\\programming_include.cpp","group":"local","local":true}

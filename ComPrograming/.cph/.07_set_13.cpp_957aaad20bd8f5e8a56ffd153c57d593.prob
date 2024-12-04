@@ -1,0 +1,1 @@
+{"name":"Local: 07_set_13","url":"e:\\CEDT_comp\\07_set_13.cpp","tests":[{"id":1723643290897,"input":"Chelsea Liverpool\nManU Liverpool\nLiverpool ManU\nChelsea Arsenal\nEverton ManCity\n","output":"Chelsea Everton"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\CEDT_comp\\07_set_13.cpp","group":"local","local":true}

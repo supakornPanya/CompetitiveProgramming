@@ -1,0 +1,1 @@
+{"name":"Local: 06_vector_24","url":"e:\\CEDT_comp\\06_vector_24.cpp","tests":[{"id":1723446939033,"input":"P01 10.25\nP03 50.0\nPx11 20.0\nA14 25.0\nEND\nP01 P01 Px11 P01 P01 P03 P01 A14 XX A14 P01 P01","output":"P01 71.75\nA14 50\nP03 50\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\CEDT_comp\\06_vector_24.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 03_loop_33","url":"e:\\CEDT_comp\\03_loop_33.cpp","tests":[{"id":1723125452151,"input":"-10 10\n20 -20\n-30 30\n-998","output":"-30 30"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\CEDT_comp\\03_loop_33.cpp","group":"local","local":true}

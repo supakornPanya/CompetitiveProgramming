@@ -1,0 +1,1 @@
+{"name":"Local: ex04e2_fknapsack","url":"e:\\Data_Algo\\ex04e2_fknapsack.cpp","tests":[{"id":1731581610374,"input":"6 3\n5 3 3\n4 3 3","output":"7.0000"},{"id":1731581815964,"input":"5.5 4\n2 3 4 5\n1 2 3 4\n","output":"8.3333"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Data_Algo\\ex04e2_fknapsack.cpp","group":"local","local":true}

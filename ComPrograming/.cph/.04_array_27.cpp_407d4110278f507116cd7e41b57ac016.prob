@@ -1,0 +1,1 @@
+{"name":"Local: 04_array_27","url":"e:\\CEDT_comp\\04_array_27.cpp","tests":[{"id":1726540381809,"input":"3\n-10 10\n20 -20\n-30 30\nZig-Zag","output":"30 3\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\CEDT_comp\\04_array_27.cpp","group":"local","local":true}

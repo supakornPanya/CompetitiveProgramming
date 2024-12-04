@@ -1,0 +1,1 @@
+{"name":"Local: 03_loop_11","url":"e:\\CEDT_comp\\03_loop_11.cpp","tests":[{"id":1723098057059,"input":"the\nThe word \"the\" is one of the most common words in English.","output":"the\nThe word \"the\" is one of the most common words in English."}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\CEDT_comp\\03_loop_11.cpp","group":"local","local":true}

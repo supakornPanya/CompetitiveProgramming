@@ -1,0 +1,1 @@
+{"name":"Local: 04_array_23","url":"e:\\CEDT_comp\\04_array_23.cpp","tests":[{"id":1723135296283,"input":"4\nTH 300\nFR 2500\nUK 2800\nJP 3500\nNRT-JP LHR-UK DMK-TH CNX-TH BKK-TH PAR-FR BKK-TH","output":"5900"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\CEDT_comp\\04_array_23.cpp","group":"local","local":true}

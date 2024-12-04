@@ -1,0 +1,1 @@
+{"name":"Local: a60a_q3_xor_road","url":"e:\\Data_Algo\\a60a_q3_xor_road.cpp","tests":[{"id":1732441137877,"input":"4\n3\n10\n9\n6\n","output":"37"},{"id":1732441667129,"input":"7\n71\n153\n206\n48\n111\n240\n1","output":"1353\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Data_Algo\\a60a_q3_xor_road.cpp","group":"local","local":true}

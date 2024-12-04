@@ -1,0 +1,1 @@
+{"name":"Local: 06_vector_31","url":"e:\\CEDT_comp\\06_vector_31.cpp","tests":[{"id":1724121831491,"input":"B I N G O","output":"16\nB3, I13, N23, G5, O29\nB3, B10, B1, B6, B11\nB3, I22, G29, O18"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\CEDT_comp\\06_vector_31.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: d62_q1a_vote","url":"e:\\Data_Algo\\d62_q1a_vote.cpp","tests":[{"id":1730695192290,"input":"8 2\nsomchai\nadisak\nsomchai\nyingyos\nsomchai\nadisak\ndirek\nyingyos","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Data_Algo\\d62_q1a_vote.cpp","group":"local","local":true}

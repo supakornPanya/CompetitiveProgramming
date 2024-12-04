@@ -1,0 +1,1 @@
+{"name":"Local: da66_f1_linear_recurrence","url":"e:\\Data_Algo\\da66_f1_linear_recurrence.cpp","tests":[{"id":1732603415165,"input":"2 4\n2 10\n2 3","output":"242"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Data_Algo\\da66_f1_linear_recurrence.cpp","group":"local","local":true}

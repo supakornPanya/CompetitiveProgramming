@@ -1,0 +1,1 @@
+{"name":"Local: pg_Tower","url":"e:\\Data_Algo\\pg_Tower.cpp","tests":[{"id":1732629988647,"input":"2 6 5\n1 2\n1 3\n2 5\n3 4\n5 6\n","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Data_Algo\\pg_Tower.cpp","group":"local","local":true}

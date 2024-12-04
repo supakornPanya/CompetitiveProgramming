@@ -1,0 +1,1 @@
+{"name":"Local: mid66_1_p3","url":"e:\\CEDT_comp\\mid66_1_p3.cpp","tests":[{"id":1724311232811,"input":"3\nC 4\nA 1\nB+ 3","output":"2.81"},{"id":1724311243473,"input":"3\nA 1\nA 2\nA 3","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\CEDT_comp\\mid66_1_p3.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 03_loop_22","url":"e:\\CEDT_comp\\03_loop_22.cpp","tests":[{"id":1723103276631,"input":"200","output":"1"},{"id":1723103421447,"input":"337500","output":"2*2*3*3*3*5*5*5*5*5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\CEDT_comp\\03_loop_22.cpp","group":"local","local":true}

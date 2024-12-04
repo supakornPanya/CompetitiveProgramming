@@ -1,0 +1,1 @@
+{"name":"Local: da66_f2_new_game_plus","url":"e:\\Data_Algo\\da66_f2_new_game_plus.cpp","tests":[{"id":1732688585100,"input":"2 2\n0 0\n0 0","output":"4"},{"id":1732688590240,"input":"2 3\n0 1 0\n0 0 0","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Data_Algo\\da66_f2_new_game_plus.cpp","group":"local","local":true}
